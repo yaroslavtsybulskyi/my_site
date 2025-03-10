@@ -6,8 +6,8 @@ It does something awesome (or will, once I figure it out). Right now, it’s a s
 
 How to run it?
 ```
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/yaroslavtsybulskyi/my_site.git
+cd my_site
 ```
 Create and activate a virtual environment:
 ```
