@@ -18,12 +18,14 @@ On Windows use
 ```
 venv\Scripts\activate
 ```
-
+Install dependencies:
+```
+pip install -r requirements.txt
+```
 Run the magic:
 ```
 python manage.py runserver
 ```
-
 Open your browser and enjoy at:
 ```
 http://127.0.0.1:8000/
